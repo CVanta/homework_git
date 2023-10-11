@@ -1,4 +1,4 @@
-задание 2 пункт 7, ожидаемое состояние репозитория:
+Бут Данил,  задание 2 пункт 7, ожидаемое состояние репозитория:
 ![image](https://github.com/CVanta/homework_git/assets/91778269/c57300ee-a12b-4ce9-aba9-b482994485aa)
 задание 2, конфликт:
 ![image](https://github.com/CVanta/homework_git/assets/91778269/d4870a83-1f58-4cdb-acc6-33bb00584309)
