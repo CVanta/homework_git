@@ -22,11 +22,12 @@
 ===========
 Задание 2 пункт 7, ожидаемое состояние репозитория:
 -----------
-![img_1.png](img_1.png)
+![image](https://github.com/CVanta/homework_git/assets/103268964/a921876f-228a-449f-a94b-431116795406)
 задание 2, конец:
 -----------
-![img_2.png](img_2.png)
+![img_2](https://github.com/CVanta/homework_git/assets/103268964/4ea141af-c79e-423d-824f-a9e6cf2eb9a5)
 -----------
 задание 3
-![img_3.png](img_3.png)
+![img_3](https://github.com/CVanta/homework_git/assets/103268964/c8a79e9c-cd64-4932-8697-2c7bba15c700)
+
 -----------
